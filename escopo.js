@@ -9,7 +9,6 @@ console.log(estudante)
 
 
 /* 
-
 Em JavaScript, o escopo define a visibilidade de variáveis e funções dentro de um programa. Imagine um grande armário com diferentes prateleiras e gavetas. Cada prateleira ou gaveta representa um escopo, e os itens guardados dentro dela só podem ser acessados a partir daquele local específico.
 
 No JavaScript, existem três tipos principais de escopo:
